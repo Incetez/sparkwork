@@ -12,4 +12,4 @@ def sub(a:Int,b:Int)= a - b
 
 def mul(a:Int,b:Int)= a * b
 
-
+def square(a:Int) = a * a
