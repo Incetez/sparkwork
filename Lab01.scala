@@ -7,3 +7,9 @@ object Lab01 extends App
 }
 
 def add(a:Int,b:Int)= a + b
+
+def sub(a:Int,b:Int)= a - b
+
+
+
+
